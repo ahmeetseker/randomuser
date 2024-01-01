@@ -1,5 +1,7 @@
 import { Html, Head, Main, NextScript } from 'next/document'
 
+import Card from '@/app/components/Cards'
+
 export default function Document() {
   return (
     <Html lang="en">
